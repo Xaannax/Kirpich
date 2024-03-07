@@ -1,6 +1,6 @@
 /datum/space_sector/badlands
 	name = SECTOR_BADLANDS
-	description = "The Badlands are home to some of the Orion Spur's most savage flora and fauna, a phenomenon that attracts only the wildest and wisest of the system's inhabitants - xenobiologists, \
+	description = "В Пустошах обитают одни из самых диких представителей флоры и фауны "Рукав Ориона". Это явление привлекает только самых диких и мудрых обитателей системы - ксенобиологов, \
 	weapon scientists, there's even a market for mercenaries, in the hunting of the particularly large and lethal creatures. Of course, there are also those looking to make a life for themselves, \
 	but natives aren't known to treat settlements kindly."
 	skybox_icon = "badlands"
